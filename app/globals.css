@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  
+  --color-signal-bg: #000000;
+  --color-signal-fg: #f4f4f5;
+  --color-signal-accent: #ff4500;
+  --color-signal-muted: #a1a1aa;
+  --color-signal-card: #18181b;
+  --color-signal-border: #27272a;
+}
+
+body {
+  background-color: var(--color-signal-bg);
+  color: var(--color-signal-fg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

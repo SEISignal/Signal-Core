@@ -1,0 +1,6 @@
+{
+  "name": "Signal Core",
+  "description": "Download knowledge and train abilities for when normal infrastructure stops working. A product of SIGNAL, a Subsidiary of SEIHOUSE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
